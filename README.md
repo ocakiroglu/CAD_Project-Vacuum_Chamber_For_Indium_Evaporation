@@ -4,7 +4,7 @@
 | :---: | :---: |
 ![Bottom Flange](images/FlangeBottom-3D.png) | ![Top Flange](images/FlangeTop-3D.png) |
 
-## Overview
+## 🔖 Overview
 This repository contains the technical designs and specifications for a compact vacuum chamber designed for the thermal evaporation of **Indium**. The project was developed in 2017 at Bilkent University's National Nanotechnology Research Center (UNAM) for [**Strongly Correlated Materials Lab**](https://scmlab.org/). The system utilizes a vertical stack design where a quartz glass cylinder is sandwiched between two custom flanges.
 
 ### System Architecture
@@ -17,7 +17,7 @@ The chamber is designed to maintain a vacuum seal while allowing for electrical 
 
 ---
 
-## Technical Specifications
+## 💾 Technical Specifications
 
 ### 1. Bottom Flange (Base)
 The base lid is the primary interface for system utilities.
@@ -33,7 +33,7 @@ The top lid is designed for easy removal to access the sample.
 
 ---
 
-## Assembly Gallery
+## ⚙️ Assembly Gallery
 
 | Component | Technical Drawing |
 | :--- | :--- |
@@ -42,7 +42,7 @@ The top lid is designed for easy removal to access the sample.
 
 ---
 
-## Repository Structure
+## 💼 Repository Structure
 ```text
 ├── drawings/           # PDF and AutoCAD files (ipt)
 │   ├── 100mm-FlangeBottom-Drawing.pdf
@@ -55,7 +55,7 @@ The top lid is designed for easy removal to access the sample.
 |   └── VacuumChamber.png
 |   └── VacuumChamberWithBoat.png
 └── README.md
+```
 
 ## 📜 License
-
 This project is licensed under the MIT License. See the `LICENSE` file for details.
